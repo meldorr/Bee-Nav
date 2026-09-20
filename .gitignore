@@ -32,3 +32,5 @@ core.*
 
 # Environment files with local paths
 *.env.local
+
+Bee-Nav_ Data supporting the publication Efficient robot navigation inspired by honeybee learning flights_1_all
